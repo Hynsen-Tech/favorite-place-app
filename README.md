@@ -7,7 +7,7 @@ Multi-platform chat application built with **Flutter**. This Mobile App utilizes
 
 Here you can add your favorite places, with image, location and save it on the device's db.
 
-<img src="add-new-place.webp" width="340"/> <img src="place-list.webp" width="340"/> <img src="google-maps-integration.webp" width="340"/> <img src="place-view.webp" width="340"/>
+<img src="add-new-place.webp" width="240"/> <img src="places-list.webp" width="240"/> <img src="google-maps-integration.webp" width="240"/> <img src="place-view.webp" width="240"/>
 
 
 ## Note
